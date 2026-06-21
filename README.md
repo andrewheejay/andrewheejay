@@ -1,38 +1,29 @@
-<h1 align="center">Andrew Heejay Lee</h1>
+### andrew heejay lee
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Penn+%2730+Math+%2B+CS;AI+%2F+ML+Builder" alt="Typing SVG" />
-</p>
+builder, incoming @ penn ('30)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrewheejay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+[email](mailto:andrew.heejay.lee@gmail.com) · [github](https://github.com/andrewheejay) · [linkedin](https://www.linkedin.com/in/andrewheejay/) · [site](https://andrewheejay.com)
 
 ---
 
-Math and Computer Science student interested in **machine learning** and **deep learning**, from BERT-based classifiers to multimodal AI applications.
+#### now
 
-- Building **[Lime](https://github.com/andrewheejay/Lime)** — an AI-powered digital wardrobe using vision models and vector search
-- Research in **explainable AI** and **cybersecurity** (PhishFence: 99.3% accuracy on 82K emails with BERT + SHAP)
-- Exploring **LLMs**, **transformers**, and **ML pipelines**
+summer intern @ dnk (june–august) · building full-stack with react & next.js · prototyping machine learning pipelines
+
+#### built
+
+**2026 — [lime](https://andrewheejay.com/built/lime)** ([code](https://github.com/andrewheejay/Lime))
+an ai digital wardrobe: snap a photo of clothing, get it tagged and embedded, and get weather-aware outfit recommendations. solo-built four-service product (next.js, fastapi, gemini, pinecone).
+
+**2025 — [phishfence](https://andrewheejay.com/built/phishfence)** ([code](https://github.com/thomasha1310/phishfence))
+phishing email detection that explains itself, bert classifier at 99.31% accuracy paired with shap + gemini for plain-language explanations. bu rise data science practicum, first author.
+
+**2024 — [motion segmentation](https://andrewheejay.com/built/motion-segmentation)** ([code](https://github.com/andrewheejay/motion-segmentation))
+benchmarked seven imu segmentation algorithms and tested whether a neural net could match them. korea science service international research program.
+
+**2023 — [authentivox](https://andrewheejay.com/built/authentivox)** ([code](https://github.com/andrewheejay/Authentivox))
+real-time voice phishing detection, 98.46% accuracy with a random forest classifier light enough to run without a gpu. ksef silver medal.
 
 ---
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat-square&logoColor=white)
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Lime](https://github.com/andrewheejay/Lime) | AI-powered digital wardrobe — photo → tagged closet entry, with vector search and weather-aware outfit picks | Next.js · FastAPI · Gemini · Pinecone · Supabase |
-| [PhishFence](https://github.com/thomasha1310/phishfence) | Phishing email detector with BERT classification and SHAP-powered explainability, trained on 82K emails | BERT · SHAP · Gemini · Flask |
-| [Brunt](https://github.com/andrewheejay/brunt) | Website for a water bottle company I co-founded | TypeScript · Next.js |
-
+full write-ups, including the parts that didn't work, at [andrewheejay.com](https://andrewheejay.com)
