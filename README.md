@@ -1,6 +1,6 @@
 ### andrew heejay lee
 
-builder, incoming @ penn ('30)
+math + cs @ penn ('30) | z fellows 
 
 [email](mailto:andrew.heejay.lee@gmail.com) · [github](https://github.com/andrewheejay) · [linkedin](https://www.linkedin.com/in/andrewheejay/) · [site](https://andrewheejay.com)
 
@@ -8,8 +8,7 @@ builder, incoming @ penn ('30)
 
 #### now
 
-summer intern @ dnk (june–august) · building full-stack with react & next.js · prototyping machine learning pipelines
-
+building duetlabs
 #### built
 
 **2026 — [lime](https://andrewheejay.com/built/lime)** ([code](https://github.com/andrewheejay/Lime))
